@@ -1,10 +1,10 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Diego Antunes</h1>
 
 
-- 🌱 I’m currently learning HTML, CSS, JAVSCRIPT, SQL, NODE, REACT
+- 🌱 I’m currently learning REACT, NODE, TYPESCRIPT, AI
 - 💬 Ask me about anything
 - 📫 How to reach me: diegocazetta@gmail.com
-- ⚡ Fun fact: Two engineering degrees aspiring to be frontend dev
+- ⚡ Fun fact: Two engineering degrees aspiring to be fullstack dev
 <!--
 
 <img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
