@@ -22,8 +22,8 @@ I'm a passionate **Full-Stack Developer** with a focus on building modern web ap
 ---
 
 ### 💬 Let's Connect:
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/dcantunes/)
-- **Portfolio**: [Your Website](https://diegoantunes.netlify.app/)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/dcantunes/)
+- **Portfolio**: [Website](https://diegoantunes.netlify.app/)
 
 ---
 
