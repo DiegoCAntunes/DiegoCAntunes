@@ -1,47 +1,88 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Diego Antunes</h1>
+<h1 align="center"> 
+  Hey there! 👋 I'm Diego Antunes 
+</h1>
 
-I'm a passionate **Full-Stack Developer** with a focus on building modern web applications and solving complex problems. I love working with technologies like **JavaScript**, **React**, **Node.js**, and **Stripe**, and have experience in **PLC programming** for industrial automation.
-  
----
-
-### 🛠️ Technologies & Tools:
-- **Languages**: JavaScript (ES6+), Python, HTML5, CSS3, SQL
-- **Frontend**: React, Next.js
-- **Backend**: Node.js, Express
-- **Payments**: Stripe API Integration
-- **Database**: MySQL
-- **DevOps**: Docker, AWS
-- **Industrial Automation**: PLC Programming (Allen Bradley, Siemens, Beckhoff)
+<p align="center">
+  <em>Full-Stack Developer | Solving real-world problems</em>
+</p>
 
 ---
 
-### 🌱 What I'm Learning:
-- AI
-- Cloud computing and microservices architecture
+### 🌟 About Me:
+I'm a dedicated **Full-Stack Developer** with a passion for creating modern, user-centric web applications and tackling challenging technical problems. My expertise spans from **frontend frameworks** to **backend architectures**, with hands-on experience in industrial automation and complex integrations.
+
+I thrive on combining innovation with technology, whether building seamless booking systems or integrating hardware with web applications. 🌍
 
 ---
 
-### 💬 Let's Connect:
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/dcantunes/)
-- **Portfolio**: [Website](https://diegoantunes.netlify.app/)
+### 🛠️ My Tech Arsenal:
+
+#### Languages:
+- **JavaScript (ES6+)**, Python, HTML5, CSS3, SQL
+
+#### Frontend Development:
+- React, Vite, Next.js
+
+#### Backend Development:
+- Node.js, Express, RESTful APIs
+
+#### Payment Integration:
+- Stripe API
+
+#### Databases:
+- MySQL, SQLite, Knex.js
+
+#### DevOps & Cloud:
+- Docker, AWS
+
+#### Industrial Automation:
+- PLC Programming (Allen Bradley, Siemens, Beckhoff)
+
+#### Miscellaneous:
+- 3D Models Integration (React Fiber), Electron for Desktop Apps
 
 ---
 
-Thanks for stopping by! 😊
+### 🚀 Featured Projects:
 
-<!--
+#### 🎉 Book a Birthday
+A **dynamic web application** that streamlines the process of booking and managing birthday parties. Designed with a modern, user-friendly interface, the platform enables clients to choose packages, customize bookings, and make secure payments. Built with **React**, **Node.js**, and integrated **Stripe** for seamless payment handling.
 
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
-### 🚀 My Projects:
-- **[Book a Birthday](https://github.com/yourusername/book-a-birthday)** - A web app for booking birthday parties, built with React, Node.js, and integrated with Stripe.
-- **[Other Project Name](https://github.com/yourusername/other-project)** - A brief description of another notable project.
+#### 🤖 Epson RoboPal
+A comprehensive project aimed at integrating robotic systems into efficient workflows. The **frontend** provides real-time status monitoring and fault visualizations, while the **backend** (developed with **Node.js** and **SQLite**) handles:
+- Fault reporting and tracking
+- Real-time data synchronization
+- Integration with robotics hardware for operational insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This solution ensures high performance and reliability for industrial robotic operations.
+
+---
+
+### 🌱 What I'm Exploring:
+- **Artificial Intelligence**: Building smarter, data-driven applications
+- **Cloud Microservices**: Designing scalable, modular architectures
+- **Data Analysis**: Exploring tools and techniques to derive insights and visualize data effectively
+
+---
+
+### 📬 Let's Connect:
+
+- 🌐 **Portfolio**: [diegoantunes.netlify.app](https://diegoantunes.netlify.app/)
+- 💼 **LinkedIn**: [linkedin.com/in/dcantunes/](https://www.linkedin.com/in/dcantunes/)
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoCAntunes&show_icons=true&theme=radical&count_private=true" alt="Diego's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCAntunes&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+---
+
+### 🎉 Thanks for stopping by! 😊
+Feel free to explore my projects and connect with me—let's build something amazing together!
