@@ -84,5 +84,5 @@ This solution ensures high performance and reliability for industrial robotic op
 
 ---
 
-### 🎉 Thanks for stopping by! 😊
+### 🎉 Thanks for stopping by! 
 Feel free to explore my projects and connect with me—let's build something amazing together!
