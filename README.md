@@ -74,9 +74,9 @@ A comprehensive project aimed at integrating robotic systems into efficient work
 
 <p align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DiegoCAntunes&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DiegoCAntunes&show_icons=true&theme=radical)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCAntunes&layout=compact&theme=radical)
+![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DiegoCAntunes&layout=compact&theme=radical)
 
 </p>
 
