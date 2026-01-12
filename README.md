@@ -70,14 +70,14 @@ A comprehensive project aimed at integrating robotic systems into efficient work
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoCAntunes&show_icons=true&theme=radical&count_private=true" alt="Diego's GitHub stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCAntunes&layout=compact&theme=radical" alt="Most Used Languages" />
+![Stats](https://github-readme-stats.vercel.app/api?username=DiegoCAntunes&show_icons=true&theme=radical)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCAntunes&layout=compact&theme=radical)
+
 </p>
 
 ---
