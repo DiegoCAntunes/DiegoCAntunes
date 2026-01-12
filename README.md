@@ -18,13 +18,13 @@ I thrive on combining innovation with technology, whether building seamless book
 ### 🛠️ My Tech Arsenal:
 
 #### Languages:
-- **JavaScript (ES6+)**, Python, HTML5, CSS3, SQL
+- **JavaScript**, Python, SQL
 
 #### Frontend Development:
 - React, Vite, Next.js
 
 #### Backend Development:
-- Node.js, Express, RESTful APIs
+- Node.js, Express
 
 #### Payment Integration:
 - Stripe API
@@ -53,8 +53,6 @@ A comprehensive project aimed at integrating robotic systems into efficient work
 - Fault reporting and tracking
 - Real-time data synchronization
 - Integration with robotics hardware for operational insights
-
-This solution ensures high performance and reliability for industrial robotic operations.
 
 ---
 
